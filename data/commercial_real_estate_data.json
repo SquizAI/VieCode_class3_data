@@ -1,0 +1,230 @@
+{
+  "boston": {
+    "companies": [
+      {
+        "name": "Avison Young",
+        "website": "https://www.avisonyoung.us/web/boston",
+        "specialization": "Office, Mixed-Use, Life Science",
+        "portfolio": [
+          "Office buildings", 
+          "Life science labs", 
+          "Mixed-use complexes"
+        ],
+        "services": [
+          "Leasing",
+          "Advisory",
+          "Project Management",
+          "Tenant Representation"
+        ],
+        "contacts": [
+          {
+            "name": "Tom Collins",
+            "title": "Principal & Managing Director",
+            "location": "Boston, MA",
+            "company": "Avison Young"
+          }
+        ]
+      },
+      {
+        "name": "CBRE",
+        "website": "https://www.cbre.com/offices/corporate/boston",
+        "specialization": "Office, Mixed-Use, Retail",
+        "portfolio": [
+          "Office towers",
+          "Mixed-use developments",
+          "Retail spaces"
+        ],
+        "services": [
+          "Leasing",
+          "Investment Sales",
+          "Property Management",
+          "Market Research"
+        ],
+        "contacts": [
+          {
+            "name": "Spencer Levy",
+            "title": "Chairman of Americas Research",
+            "location": "Boston, MA",
+            "company": "CBRE"
+          }
+        ]
+      },
+      {
+        "name": "Lincoln Property Company",
+        "website": "https://www.lpc.com/office/boston/",
+        "specialization": "Office, Mixed-Use, Residential",
+        "portfolio": [
+          "Office complexes",
+          "Mixed-use developments",
+          "Residential components"
+        ],
+        "services": [
+          "Development",
+          "Property Management",
+          "Leasing",
+          "Investment"
+        ],
+        "contacts": [
+          {
+            "name": "Scott Brown",
+            "title": "Executive Vice President",
+            "location": "Boston, MA",
+            "company": "Lincoln Property Company"
+          }
+        ]
+      },
+      {
+        "name": "Bulfinch Companies",
+        "website": "https://www.bulfinch.com/what-we-do/",
+        "specialization": "Life Science, Office, Mixed-Use",
+        "portfolio": [
+          "Life science facilities",
+          "Office buildings",
+          "Mixed-use developments"
+        ],
+        "services": [
+          "Development",
+          "Acquisition",
+          "Property Management",
+          "Asset Management"
+        ],
+        "contacts": [
+          {
+            "name": "Eric Schlager",
+            "title": "Chief Executive Officer",
+            "location": "Boston, MA",
+            "company": "Bulfinch Companies"
+          }
+        ]
+      }
+    ],
+    "properties": [
+      {
+        "name": "Seaport Innovation District",
+        "type": "Mixed-Use",
+        "address": "Boston Seaport District, Boston, MA",
+        "size": "2.5 million square feet",
+        "developer": "Boston Global Investors",
+        "description": "Innovative mixed-use development combining office, residential, retail and community spaces in Boston's vibrant Seaport District."
+      },
+      {
+        "name": "Back Bay Office Complex",
+        "type": "Office",
+        "address": "Back Bay, Boston, MA",
+        "size": "1.2 million square feet",
+        "developer": "Lincoln Property Company",
+        "description": "Premium office complex in Boston's prestigious Back Bay neighborhood, featuring Class A office space and modern amenities."
+      },
+      {
+        "name": "Kendall Square Life Science Hub",
+        "type": "Life Science/Office",
+        "address": "Kendall Square, Cambridge, MA",
+        "size": "1.8 million square feet",
+        "developer": "Bulfinch Companies",
+        "description": "Advanced life science and office complex serving the research and innovation community in Cambridge's Kendall Square area."
+      }
+    ]
+  },
+  "denver": {
+    "companies": [
+      {
+        "name": "McWhinney",
+        "website": "https://mcwhinney.com/our-companies/commercial-and-mixed-use/",
+        "specialization": "Mixed-Use, Commercial, Retail",
+        "portfolio": [
+          "Mixed-use developments",
+          "Commercial buildings",
+          "Retail spaces"
+        ],
+        "services": [
+          "Development",
+          "Property Management",
+          "Asset Management",
+          "Community Integration"
+        ],
+        "contacts": [
+          {
+            "name": "Chad McWhinney",
+            "title": "CEO & Co-Founder",
+            "location": "Denver, CO",
+            "company": "McWhinney"
+          }
+        ]
+      },
+      {
+        "name": "Weins Development Group",
+        "website": "https://www.weinsdevelopment.com/",
+        "specialization": "Office, Mixed-Use, Commercial",
+        "portfolio": [
+          "Office buildings",
+          "Mixed-use projects",
+          "Commercial spaces"
+        ],
+        "services": [
+          "Development",
+          "Acquisition",
+          "Leasing",
+          "Project Management"
+        ],
+        "contacts": [
+          {
+            "name": "Jonathan Weins",
+            "title": "Managing Director",
+            "location": "Denver, CO",
+            "company": "Weins Development Group"
+          }
+        ]
+      },
+      {
+        "name": "United Properties",
+        "website": "https://www.uproperties.com/locations/denver-colorado/",
+        "specialization": "Office, Industrial, Mixed-Use",
+        "portfolio": [
+          "Office complexes",
+          "Industrial facilities",
+          "Mixed-use developments"
+        ],
+        "services": [
+          "Development",
+          "Investment",
+          "Asset Management",
+          "Leasing"
+        ],
+        "contacts": [
+          {
+            "name": "Kevin Kelley",
+            "title": "Executive Vice President",
+            "location": "Denver, CO",
+            "company": "United Properties"
+          }
+        ]
+      }
+    ],
+    "properties": [
+      {
+        "name": "LoDo District Office Complex",
+        "type": "Office",
+        "address": "Lower Downtown (LoDo), Denver, CO",
+        "size": "850,000 square feet",
+        "developer": "Weins Development Group",
+        "description": "Premium office complex in Denver's historic LoDo district featuring modern amenities while preserving architectural heritage."
+      },
+      {
+        "name": "Cherry Creek Mixed-Use Project",
+        "type": "Mixed-Use",
+        "address": "Cherry Creek, Denver, CO",
+        "size": "1.2 million square feet",
+        "developer": "McWhinney",
+        "description": "Vibrant mixed-use development in Cherry Creek featuring office space, retail, residential units and community areas."
+      },
+      {
+        "name": "RiNo Innovation Hub",
+        "type": "Mixed-Use/Office",
+        "address": "River North Art District, Denver, CO",
+        "size": "950,000 square feet",
+        "developer": "United Properties",
+        "description": "Creative office and mixed-use development in Denver's RiNo district catering to innovative companies and creative professionals."
+      }
+    ]
+  }
+}
